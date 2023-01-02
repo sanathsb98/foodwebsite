@@ -1,0 +1,26 @@
+.OfferNavbar{
+    background-color: white;
+    display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   padding: 1px;
+   color: black;
+}
+.location_acess_icon{
+    color: rgb(212, 37, 37);
+    margin-right: 5px;
+    
+}
+.location_acess_content{
+ font-size: medium;
+ margin-right: 5px;
+}
+.location_allow_button{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 1px;
+  font-size: medium;
+  margin-right: 5px;
+}

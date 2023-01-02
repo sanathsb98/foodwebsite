@@ -1,0 +1,27 @@
+.adminpanel{
+    background-color: rgb(22, 30, 30);
+    height: 100vh;
+    color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: row;
+}
+.admin_panel_left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(52, 59, 59);
+    width: 100%;
+    height: 100%;
+}
+.admin_panel_right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(86, 100, 100);
+    width: 100%;
+    height: 100%;
+}

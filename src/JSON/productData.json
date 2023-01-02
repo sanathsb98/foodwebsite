@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+        "productName":"Fried Crispy Chicken 60",
+        "productImage":"https://processorschoice.com/wp-content/uploads/sites/5/2019/11/friedchicken.png",
+        "productPrice":30,
+        "reviews":[
+            {     
+                 "rating":3,
+                 "productDescription":"nice juicy chicken ever you tasted"
+            }
+        ]
+    },
+
+    {
+        "id":2,
+        "productName":"Chicken Biriyani Full Pack ",
+        "productImage":"https://processorschoice.com/wp-content/uploads/sites/5/2019/11/friedchicken.png",
+        "productPrice":140,
+        "reviews":[
+            {     
+                 "rating":4,
+                 "productDescription":"chennai style chicken biriyani "
+            }
+        ]
+    },
+
+    {
+        "id":3,
+        "productName":"Stuffed Chicked Pizza With Ketchup",
+        "productImage":"https://processorschoice.com/wp-content/uploads/sites/5/2019/11/friedchicken.png",
+        "productPrice":260,
+        "reviews":[
+            {     
+                 "rating":2,
+                 "productDescription":"pizza with chicken toppings and onions"
+            }
+        ]
+    },
+
+    {
+        "id":4,
+        "productName":"Big Wings Burger With Hot Flavour Myoneese",
+        "productImage":"https://processorschoice.com/wp-content/uploads/sites/5/2019/11/friedchicken.png",
+        "productPrice":360,
+        "reviews":[
+            {     
+                 "rating":4,
+                 "productDescription":"big sized big wing burger"
+            }
+        ]
+    }
+]
+

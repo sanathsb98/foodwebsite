@@ -1,0 +1,26 @@
+.CartPage{
+    height: 100vh;
+    background-color: rgb(64, 64, 47);
+}
+.cart_content{
+    padding: 150px 15px;
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.cart_items{
+   display: flex;
+   background-color: rgb(132, 130, 125);
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.cart_checkout{
+    display: flex;
+    background-color: rgb(150, 139, 112);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
